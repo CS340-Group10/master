@@ -1,0 +1,35 @@
+
+/* styles for the navigation bar */
+.menu {
+    text-align: center;
+    background-color: #000080;  /* navy blue */
+    height: 75px;
+    padding-top: 20px ;
+}
+
+.field {
+    display: inline-block;
+    margin-right: 75px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#aLink {
+    color: #FFFFFF;  /* white text */
+    text-decoration: none;
+}
+
+table {
+	border: 1px solid;
+
+}
+
+table, th {
+	margin-right: 200px;
+	padding-right: 40px;
+	padding-left: 40px;
+	border: 2px solid;
+	border-collapse: collapse;
+	text-align: center;
+}
